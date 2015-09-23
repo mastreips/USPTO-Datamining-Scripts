@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20150257328A1-20150917.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20150902" date-publ="20150917">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20150257328</doc-number>
+<kind>A1</kind>
+<date>20150917</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>14426613</doc-number>
+<date>20130926</date>
+</document-id>
+</application-reference>
+<us-application-series-code>14</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>IT</country>
+<doc-number>AN2012A000120</doc-number>
+<date>20120927</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150917</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150917</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d0e61">PLOW</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>AIRIS SOCIETA' A RESPONSABILITA' LIMITATA</orgname>
+<address>
+<city>Milano</city>
+<country>IT</country>
+</address>
+</addressbook>
+<residence>
+<country>IT</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Pieralisi</last-name>
+<first-name>Gennaro</first-name>
+<address>
+<city>Jesi (AN)</city>
+<country>IT</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>AIRIS SOCIETA' A RESPONSABILITA' LIMITATA</orgname>
+<role>03</role>
+<address>
+<city>Milano</city>
+<country>IT</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2013/070113</doc-number>
+<kind>00</kind>
+<date>20130926</date>
+</document-id>
+<us-371c12-date><date>20150306</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A plow has a share used to cut the soil, a moldboard connected to the share used to turn over the cods of soil cut by the share, a beam connecting the share-moldboard assembly to a motor vehicle, a vibrator assembly connected to the moldboard to put the share-moldboard assembly into vibration, a force sensor connected to the beam to detect the ploughing force on the beam, a controller connected to the force sensor and the vibrator assembly to control the vibration of the vibrator assembly according to the force value detected by the force sensor, the controller being set in such manner to acquire the force values from the force sensor, pursuing a minimum force through the control of the vibrator assembly.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="175.01mm" wi="186.10mm" file="US20150257328A1-20150917-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="249.34mm" wi="178.48mm" file="US20150257328A1-20150917-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="176.78mm" wi="152.65mm" file="US20150257328A1-20150917-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="195.58mm" wi="185.17mm" file="US20150257328A1-20150917-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="205.15mm" wi="181.02mm" file="US20150257328A1-20150917-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="239.78mm" wi="198.12mm" file="US20150257328A1-20150917-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="248.58mm" wi="203.79mm" file="US20150257328A1-20150917-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED U.S. APPLICATIONS</heading>
+<p id="p-0002" num="0001">Not applicable.</p>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0003" num="0002">Not applicable.</p>
+<heading id="h-0003" level="1">NAMES OF PARTIES TO A JOINT RESEARCH AGREEMENT</heading>
+<p id="p-0004" num="0003">Not applicable.</p>
+<heading id="h-0004" level="1">REFERENCE TO AN APPENDIX SUBMITTED ON COMPACT DISC</heading>
+<p id="p-0005" num="0004">Not applicable.</p>
+<heading id="h-0005" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0006" num="0005">1. Field of the Invention</p>
+<p id="p-0007" num="0006">The present patent application for industrial invention relates to an improved plow.</p>
+<p id="p-0008" num="0007">2. Description of Related Art Including Information Disclosed Under 37 CFR 1.97 and 37 CFR 1.98</p>
+<p id="p-0009" num="0008">Plows have been used in agriculture since the earliest times to move the soil and prepare it for additional works or directly for sowing.</p>
+<p id="p-0010" num="0009">Historically speaking, the plow is a sort of evolution of the pick. In the past it was pulled by oxen or people. Today, in modernized countries, it is pulled by mechanical tractors.</p>
+<p id="p-0011" num="0010">Traction is mechanical in countries with mechanized agriculture, and plows are mounted on tractors and fixed to a hauling hook, resting on wheels (so-called hauled plows). Alternatively, being always hauled by the tractor, plows are fixed to a hydraulic power lift (so-called carried plows that project from the tractor without the support of wheels). Carried plows are mostly used in ordinary work because they make road transfers easier.</p>
+<p id="p-0012" num="0011">The current models of plows can be grouped in different categories according to the type of system used for attachment to the motor vehicle (hauled plows, semi-carried plows and carried plows), the type of tool (fixed single or multiple tool and idle tool) and the type of adjustment and control system of the working parts (tools) installed on each type of plow.</p>
+<p id="p-0013" num="0012">All types of plow are provided with some common parts that can be divided into three categories according to their function: working tools, such as coulter (or knife), chisel, share and moldboard; connection, support and guide devices, such as beam, horizontal bar; and adjustment devices to control the burying and filling operations of the working tools and adjust the working depth and width.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> shows a traditional plow according to the prior art, which is generally indicated with reference number (<b>100</b>), mounted on a motor vehicle, specifically a tractor in <figref idref="DRAWINGS">FIG. 1</figref>, indicated with reference number (<b>200</b>).</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2</figref> is an enlarged view of the traditional plow according to the prior art shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0016" num="0015">The plow (<b>100</b>) according to the prior art comprises:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0016">a share (<b>6</b>) used to cut the soil,</li>
+        <li id="ul0002-0002" num="0017">a moldboard (<b>7</b>) connected to the share (<b>6</b>) used to turn over the clods of soil cut by the share,</li>
+        <li id="ul0002-0003" num="0018">a beam (<b>1</b>) connecting the share-moldboard assembly to a motor vehicle (<b>200</b>).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0017" num="0019">On the whole, the beam (<b>1</b>) supports the entire ploughing effort exerted through the various tools used to work the soil (<b>6</b>) are the most worn-out parts.</p>
+<p id="p-0018" num="0020">The plow (<b>100</b>) is completed by adjustment devices (<b>3</b>) that control the burying and digging operations of the beam together with all working tools, and adjust the depth and width of the furrows.</p>
+<p id="p-0019" num="0021">In spite of being a diffused practice, ploughing is impaired by several drawbacks.</p>
+<p id="p-0020" num="0022">Ploughing with a plow of the prior art is a very expensive operation in terms of energy, with consequent high fuel consumption for the motor vehicle. Moreover, ploughing according to the prior art leaves macro clods on the surface of the soil because of the poor definition of the furrow made in the soil by the working parts of the plow as consequence of the cuts. Therefore, it is often necessary to carry out preparation works of the seed bed, thus extending the time needed for sowing, making it difficult to rotate crops, involving higher fuel costs and worsening the structure of the soil due to the repeated travels of the plow.</p>
+<p id="p-0021" num="0023">The use of a vibrator applied to the plow is known in order to solve, at least partially, the aforementioned drawbacks.</p>
+<p id="p-0022" num="0024">The use of vibrators with connecting rod-crank system with predefined travel is known.</p>
+<p id="p-0023" num="0025">EP1108349 discloses actuating means comprising an eccentric-connecting rod transmission connected to the frame (beam) of the plow. The connecting rod is connected to the blade of the plow by means of rods. The blade is mounted in a grooved guide of the moldboard in such manner to slide. In this way, the blade of the moldboard makes an alternate movement with about 7-8 mm travel with frequency (vibrations) in the range of 500-1200 per minute. The blade of the moldboard is connected to the frame of the plow by means of the connecting rod and levers. Consequently the travel of the blade is fixed and cannot be adjusted during ploughing.</p>
+<p id="p-0024" num="0026">DE1557822 discloses a vibrator comprising a statically balanced eccentric disk, instead of an eccentric mass that transmits vibrations. As a matter of fact, said vibrator transmits oscillations just like a crank (eccentric) and a connecting rod. The size of the oscillations depends on the double of the eccentricity value of the eccentric, which guarantees the oscillation around the fulcrum of the mobile system.</p>
+<p id="p-0025" num="0027">Consequently, the type of plow disclosed in EP1108349 and DE1557822 may be subject to jamming in case of obstacles, such as stones or harder materials.</p>
+<p id="p-0026" num="0028">Vibrators with eccentric masses are known to solve these drawbacks at least partially.</p>
+<p id="p-0027" num="0029">DE2604415 discloses a vibrator disposed on a support in the proximity of the share of the plow and elastic means to dampen the vibration and prevent it from propagating to the frame of the tractor.</p>
+<p id="p-0028" num="0030">GB519046 discloses a moldboard connected to the frame of the plow with resilient means (elastic supports). An eccentric shaft is directly connected to the structure of the moldboard. The eccentric shaft is actuated by a pulley driven by a belt in such manner to put the moldboard in high-frequency vibration. The eccentric shaft can be actuated by an electric motor or by the tractor and can provide vibrations in the ultrasound range.</p>
+<p id="p-0029" num="0031">Although they do not have a fixed travel, the vibrators with eccentric masses disclosed in DE2604415 and GB519046 are impaired by the fact that they work at a predefined excitation force that cannot be varied during the operation of the plow according to the type of worked soil.</p>
+<p id="p-0030" num="0032">The purpose of the present invention is to eliminate the drawbacks of the prior art and, particularly, reduce fuel costs, being ploughing one of the most energy-consuming activities.</p>
+<p id="p-0031" num="0033">Another purpose of the present invention is to obtain a better crumbling of clods, as well as better defined furrows, thus making it easier to prepare the seed bed.</p>
+<heading id="h-0006" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0032" num="0034">The plow of the invention is characterized by the fact that it comprises at least one vibrator.</p>
+<p id="p-0033" num="0035">The plow comprises a beam and a moldboard fixed to said beam. The moldboard comprises a front concave surface faced towards the motor vehicle and a back surface faced towards the opposite direction with respect to the front concave surface. The moldboard comprises an upper edge and a lower edge.</p>
+<p id="p-0034" num="0036">The vibrator comprises an upper end and a lower end and is fixed on the back surface of the moldboard.</p>
+<p id="p-0035" num="0037">The plow comprises a share disposed in front of said moldboard and used to make a horizontal cut in the soil because of the forward movement of the plow, thus allowing the moldboard to lift up and turn over a strip of soil. Therefore the share must penetrate deeply in the soil, overcoming the friction force exerted by the soil.</p>
+<p id="p-0036" num="0038">In order to favor the penetration of the assembly in the soil and the turning over of the soil on the moldboard, said vibrator is advantageously disposed on the back surface of the moldboard, in the proximity of the lower edge, in order to reduce the friction caused by the contact between of the soil and the plow and, in particular, the moldboard that remains in contact with the soil longer.</p>
+<p id="p-0037" num="0039">Evidently, the parts of the plow that must be put into vibration are the share and moldboard. Given the fact that the vibrator must remain out of the soil, in order not to interfere with the worked soil, the shorter the distance between the vibrator and the share of the plow, the more effective vibrations will be, in view of the lower dampening of the vibrations transmitted by the vibrator to said share.</p>
+<p id="p-0038" num="0040">Moreover, a higher intensity of the vibrations transmitted by the vibrator to the share and to the moldboard of the plow corresponds to a dampened friction effect of the soil detached from the land being ploughed.</p>
+<p id="p-0039" num="0041">It must be noted that a proper frequency of the vibrations contributes to reduce energy waste and fuel consumption according to the type of plow and soil.</p>
+<p id="p-0040" num="0042">Therefore, the plow of the invention makes it possible to overcome the drawbacks of the prior art, obtaining better defined furrows and deeper penetration of the share, at the same energy level, as well as a better breaking of clods.</p>
+<p id="p-0041" num="0043">Evidently, the lower the friction to be overcome by the share moldboard assembly of the plow in order to penetrate, cut, lift and turn over the soil, the lower the energy required by the plow for ploughing will be. The use of the vibrator reduces fuel consumption of the tractor during ploughing by 10-30% according to the conditions and type of the soil.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0042" num="0044">For explanatory reasons, the description of the improved plow according to the present invention continues with reference to the attached drawings, which only have illustrative, not limiting value, wherein:</p>
+<p id="p-0043" num="0045"><figref idref="DRAWINGS">FIG. 1</figref> is a side view of a plow according to the prior art, mounted on a tractor.</p>
+<p id="p-0044" num="0046"><figref idref="DRAWINGS">FIG. 2</figref> is an enlarged view of the plow according to the prior art shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0045" num="0047"><figref idref="DRAWINGS">FIG. 3</figref> is a back perspective view of a tractor and a plow according to the present invention.</p>
+<p id="p-0046" num="0048"><figref idref="DRAWINGS">FIG. 4</figref> is a side view of the plow according to the present invention from the opposite side compared to <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0047" num="0049"><figref idref="DRAWINGS">FIG. 5</figref> is an axonometric view of the plow according to the present invention.</p>
+<p id="p-0048" num="0050"><figref idref="DRAWINGS">FIG. 6</figref> is a diagrammatic view of a generic vibrator;</p>
+<p id="p-0049" num="0051"><figref idref="DRAWINGS">FIG. 7</figref> is a diagrammatic view of a traditional vibrator;</p>
+<p id="p-0050" num="0052"><figref idref="DRAWINGS">FIG. 8</figref> is a diagrammatic view of an innovative vibrator;</p>
+<p id="p-0051" num="0053"><figref idref="DRAWINGS">FIG. 9</figref> is a diagrammatic view of a different version of the vibrator of <figref idref="DRAWINGS">FIG. 8</figref>;</p>
+<p id="p-0052" num="0054"><figref idref="DRAWINGS">FIG. 10</figref> is a diagrammatic view of an innovative vibration assembly;</p>
+<p id="p-0053" num="0055"><figref idref="DRAWINGS">FIG. 11</figref> is a block diagram of an automatic vibration system according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0054" num="0056"><figref idref="DRAWINGS">FIG. 3</figref> shows a plow (<b>100</b>) according to the present invention connected to a motor vehicle (<b>200</b>).</p>
+<p id="p-0055" num="0057">Also referring to <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, the plow (<b>100</b>) comprises a beam (<b>1</b>), a share (<b>6</b>), a chisel (<b>5</b>) and a moldboard (<b>7</b>). Although it is not shown in the attached figures, the plow of the invention may also comprise a coulter connected to the beam or directly to the chisel.</p>
+<p id="p-0056" num="0058">The beam (<b>1</b>) comprises a horizontal part (<b>12</b>) and a vertical part (<b>13</b>). The horizontal part (<b>12</b>) of the beam (<b>1</b>) is provided with a free end (<b>120</b>) whereon the vertical part (<b>13</b>) of the beam (<b>1</b>) is fixed with bolts (<b>14</b>).</p>
+<p id="p-0057" num="0059">The vertical part (<b>13</b>) of the beam (<b>1</b>) comprises a front side (<b>130</b>) facing towards the forward traveling direction of the plow (<b>100</b>) and a back side (<b>131</b>) facing towards the opposite direction with respect to the forward traveling direction of the plow (<b>100</b>).</p>
+<p id="p-0058" num="0060">The moldboard (<b>7</b>) of the plow is fixed in correspondence of and onto said front side (<b>130</b>) of the vertical part (<b>13</b>) of the beam.</p>
+<p id="p-0059" num="0061">The moldboard (<b>7</b>) is basically made of sheet steel and composed of a front concave surface facing towards the forward traveling direction of the plow, and a back surface (<b>71</b>) opposite the front concave surface. The moldboard (<b>7</b>) is fixed to the vertical part (<b>13</b>) of the beam and the back surface (<b>71</b>) of the moldboard is in contact with the front side (<b>130</b>) of the vertical part (<b>13</b>) of the beam.</p>
+<p id="p-0060" num="0062">The moldboard (<b>7</b>) comprises an upper edge (<b>710</b>) and a lower edge (<b>711</b>).</p>
+<p id="p-0061" num="0063">A tilted bar (<b>9</b>) connects the moldboard (<b>7</b>) to a horizontal bar (<b>91</b>). The horizontal bar (<b>91</b>) is made of a planar metal sheet with vertical working side directed towards the forward traveling direction of the plow and lower corner in parallel position to the soil direction. The horizontal bar (<b>91</b>) is in continuity with the chisel (<b>5</b>), which is in turn in continuity with the share (<b>6</b>). When seen from above, the share (<b>6</b>) and horizontal bar (<b>91</b>) form a penetration angle in the soil.</p>
+<p id="p-0062" num="0064">The vertical wall of the horizontal bar (<b>91</b>) is adapted to rest against the vertical wall of the furrow as soon as it is made by the coulter and the chisel (<b>5</b>) along the forward movement direction of the plow and it is being formed because of the action of share (<b>6</b>) and moldboard (<b>7</b>). Therefore, the horizontal bar (<b>91</b>) is especially adapted to act as guide and support for the entire plow on the unploughed soil for a substantially rectilinear direction of the furrow.</p>
+<p id="p-0063" num="0065">The shape of the plow is merely indicative, the range of known plows being very large. The application of a vibrator to the plow, in order to increase its ploughing efficiency, determines some changes in the plow configuration according to the specific type of plow.</p>
+<p id="p-0064" num="0066">Therefore, the tilted bar (<b>9</b>) acts as reinforcement and connection between moldboard (<b>7</b>) and horizontal bar (<b>91</b>).</p>
+<p id="p-0065" num="0067">Referring to <figref idref="DRAWINGS">FIG. 5</figref>, the share (<b>6</b>) precedes the moldboard (<b>7</b>), in terms of contact with soil, with oblique transversal position compared to the forward direction of the plow (<b>100</b>).</p>
+<p id="p-0066" num="0068">Referring to <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, the plow (<b>100</b>) comprises a vibrator (<b>20</b>).</p>
+<p id="p-0067" num="0069">The vibrator (<b>20</b>) is mechanized and comprises a motor with shaft whereon eccentric masses are keyed.</p>
+<p id="p-0068" num="0070">The rotation of the eccentric masses of the vibrator (<b>20</b>) generates vibrations. The variable frequency of the vibrations is adjusted, according to plow type and soil conditions, by varying the rotational speed of the drive shaft, whereas the intensity of the vibrations is defined by the eccentricity and weight of the eccentric masses.</p>
+<p id="p-0069" num="0071">Advantageously, the frequency of the vibrations generated by said vibrator (<b>20</b>) mounted on the plow (<b>100</b>) is 1000-3000 vibrations/min, preferably 2000 vibrations/min. The power of the vibrator (<b>20</b>) depends on the size of the plow (<b>100</b>) and is 0.3-2.0 kW, preferably 0.5 kW.</p>
+<p id="p-0070" num="0072">The use of the vibrator (<b>20</b>), mounted on the plow (<b>100</b>) and vibrating at the frequency of 2000 vibrations/min, allows for saving 10-30% of the power needed by the plow (<b>100</b>) to plough and consequently for saving 10-30% of the fuel used by the tractor during ploughing.</p>
+<p id="p-0071" num="0073">The vibrator (<b>20</b>) mounted on the plow (<b>100</b>), comprises an upper end (<b>21</b>) and a lower end (<b>22</b>). The vibrator (<b>20</b>) is fixed with bolts (<b>23</b>) to the back surface (<b>71</b>) of the moldboard (<b>7</b>) of the plow (<b>100</b>). In particular, the vibrator (<b>20</b>) is fixed to the back surface (<b>71</b>) of the moldboard in such manner to be disposed in the lowest point of the back surface (<b>71</b>) of the moldboard.</p>
+<p id="p-0072" num="0074">Moreover, the vibrator (<b>2</b>) is disposed in the space between the tilted bar (<b>9</b>) and the horizontal bar (<b>91</b>) of the moldboard (<b>7</b>).</p>
+<p id="p-0073" num="0075">In order for the vibration transmitted by the vibrator (<b>20</b>) to the moldboard (<b>7</b>) to be effective, the vibration direction of the moldboard (<b>7</b>) must be substantially perpendicular to the working surface of the moldboard. Moreover, the vibrations of the vibrator (<b>20</b>) must be &#x201c;felt&#x201d; more in the area of the moldboard that is mostly involved in the turning over of the soil.</p>
+<p id="p-0074" num="0076">The position of the vibrator (<b>20</b>) on the plow (<b>100</b>) is strictly related to the efficacy of the vibrations transmitted to said share (<b>6</b>) and moldboard (<b>7</b>) of the plow (<b>100</b>).</p>
+<p id="p-0075" num="0077">In particular, if the vibrator (<b>20</b>) is mounted on the plow (<b>100</b>) in such manner that the lower end (<b>22</b>) of the vibrator (<b>20</b>) is as close as possible to the lower edge (<b>711</b>) of the back surface (<b>71</b>) of the moldboard (<b>7</b>), said vibrator (<b>20</b>) is disposed at a short distance from the share (<b>6</b>) of the plow (<b>100</b>) and, therefore, the vibrations generated by the vibrator (<b>20</b>) and transmitted to said share (<b>6</b>) are not very dampened.</p>
+<p id="p-0076" num="0078">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, the plow (<b>100</b>) is mounted on a tractor, generally indicated with reference number (<b>200</b>).</p>
+<p id="p-0077" num="0079">The vibrator (<b>20</b>) mounted on the plow (<b>100</b>) comprises a cable or power supply pipe (<b>24</b>) adapted to power said vibrator (<b>20</b>). The powering of the vibrator (<b>20</b>) can either be hydraulic or pneumatic or electrical, according to the type of power used for the tractor (<b>200</b>) whereon the plow (<b>100</b>) is fixed.</p>
+<p id="p-0078" num="0080">In particular, if the vibrator (<b>20</b>) is hydraulically powered, the vibrator (<b>20</b>) has a hydraulic motor and a hydraulic pump actuated by an internal combustion engine of the tractor (<b>200</b>) to power said hydraulic motor by means of a pump with fixed or variable displacement. Vice versa, if the vibrator (<b>20</b>) is electrically powered, the vibrator (<b>20</b>) is powered with direct current by connecting said power supply cable (<b>24</b>) to a battery provided on the tractor (<b>200</b>).</p>
+<p id="p-0079" num="0081">The vibrator (<b>20</b>) can be also powered with alternate current. In such a case, an electrical generator directly actuated by the motor of the tractor (or by an optional internal combustion engine) is provided.</p>
+<p id="p-0080" num="0082">Alternative embodiments of the plows according to the invention provide for the presence of two or more vibrators, which actuate differently on the various parts of the plow (share, moldboard and other parts).</p>
+<p id="p-0081" num="0083">Referring to <figref idref="DRAWINGS">FIG. 6</figref>, a generic vibrator can be represented with only one equivalent mass (M) (also with multiple masses), connected to a rotary shaft (A) driven into rotation by a motor around its axis at a rotational speed (n). The mass (M) has an eccentric center of gravity (B) with respect to the axis of rotation (A) of the rotary shaft with eccentricity value (E).</p>
+<p id="p-0082" num="0084">The mass (M) is expressed in kilograms, the rotational speed (n) in revolutions per minute (rpm) and eccentricity (E) in meters.</p>
+<p id="p-0083" num="0085">The characteristics of the vibrator are:</p>
+<p id="p-0084" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>f</i>(Hertz)=<i>n/</i>60 (excitation frequency)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0085" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>F</i>(<i>N</i>)=<i>M&#xb7;</i>4(&#x3c0;<i>f</i>)<sup>2</sup><i>&#xb7;E </i>(centrifugal excitation force)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0086" num="0086"><figref idref="DRAWINGS">FIG. 7</figref> shows a vibrator (<b>20</b>) of traditional type comprising two masses (m, m&#x2032;) with the same mass and positioned with the same eccentricity (e) with respect to the axis (A) of the rotary shaft (S). The masses (m, m&#x2032;) are joined to the rotary shaft (S), but angularly displaced by an angle (&#x3b1;), meaning that the two straight lines passing through the centers of gravity of the two masses and the axis of the rotary shaft form an angle (&#x3b1;).</p>
+<p id="p-0087" num="0087">Therefore, with such vibrator (<b>20</b>) provided with two masses, it is theoretically possible to vary the mutual angular position of the two masses (m, m&#x2032;), i.e. the angle (&#x3b1;), in such manner to vary the vectorial resultant of the equivalent centrifugal force F ed, in scalar terms, the product &#x201c;M*E&#x201d; that represents the excitation force F of the vibrator. When the two masses (m, m&#x2032;) are in opposition (at 180&#xb0;), the excitation force F is null (total eccentricity E=0). When the two masses (m, m&#x2032;) are in phase (at 0&#xb0;), the excitation F is maximum (resultant for an equivalent mass M=2 m positioned with eccentricity E=e).</p>
+<p id="p-0088" num="0088">However, in the traditional vibrator (<b>20</b>) of <figref idref="DRAWINGS">FIG. 7</figref>, the two masses (m, m&#x2032;) can be displaced only with a manual action on the vibrator, after stopping and partially dismounting it. Therefore, the vibration of the traditional vibrator (<b>20</b>) can be controlled only by controlling the rotational speed (n) of the rotary shaft.</p>
+<p id="p-0089" num="0089">The excitation frequency (f) can be varied on any traditional vibrator of traditional type.</p>
+<p id="p-0090" num="0090">In case of hydraulic vibrator (actuated by a hydraulic motor, through a pump directly moved by a power take-off of the tractor), the vibration frequency, which is strictly connected to the rotational speed of the vibrator, is varied by changing the hydraulic capacity of the hydraulic motor. This can be done by intervening on the working condition of the pump, in case of a variable displacement pump, or of the hydraulic motor, if with variable displacement.</p>
+<p id="p-0091" num="0091">In case of an electrical vibrator (actuated by an electric motor), it is necessary to act on the electrical power supply produced by an alternator. An electrical frequency converter must be disposed between alternator and electrical motor (inverter). So, by varying the electrical frequency, the rotational speed &#x201c;n&#x201d; of the vibrator, and consequently the excitation frequency &#x201c;f&#x201d; of the vibrator, is varied.</p>
+<p id="p-0092" num="0092">Innovative vibrators have been designed in order to vary the excitation force (F), as illustrated below.</p>
+<p id="p-0093" num="0093"><figref idref="DRAWINGS">FIG. 8</figref> shows a vibrator (<b>320</b>) wherein a first mass (m) is fixed to the rotary shaft (S) and a second mass (m&#x2032;) is revolvingly mounted with respect to the rotary shaft, in such manner to vary the angular distance of the two masses (m, m&#x2032;), i.e. the angle (&#x3b1;) between the radial straight lines that connect the center of gravity of the two masses (m, m&#x2032;) to the axis (A) of the rotary shaft. The vibrator (<b>320</b>) comprises an adjustment system (<b>300</b>) adapted to vary the angular position &#x201c;&#x3b1;&#x201d; of the two masses (m, m&#x2032;). The adjustment device (<b>300</b>) makes the second mass (s) rotate with respect to the shaft (S) of the vibrator in such manner to obtain the desired angular position. Moreover, it blocks the second mass (m&#x2032;) in the desire angular position during the rotation of the shaft (S) of the vibrator.</p>
+<p id="p-0094" num="0094">In view of the above, the excitation force &#x201c;F&#x201d; can be varied from a null minimum value to a maximum value by means of the adjustment system (<b>300</b>).</p>
+<p id="p-0095" num="0095">An embodiment of the adjustment system (<b>300</b>) can comprise a back driven motor installed on board the vibrator, such as a brushless motor and a planetary reduction gear, if any, to impress the desired mutual displacement between the two masses (m, m&#x2032;). In this way the vibrator (<b>320</b>) can be automatically adjusted during its operation without being dismounted.</p>
+<p id="p-0096" num="0096"><figref idref="DRAWINGS">FIG. 9</figref> shows an alternative embodiment wherein the vibrator (<b>320</b>) comprises four eccentric masses (m, m&#x2032;) disposed in pairs (C<b>1</b>, C<b>2</b>) on the same drive shaft with axis of rotation (A). Each pair of masses comprises a first mass (m) fixed to the drive shaft and a second mass (m&#x2032;) that revolves with respect to the drive shaft in such manner to vary the angle (&#x3b1;) between the two masses. The second mass (m&#x2032;) of each pair of masses is connected to an adjustment system (<b>300</b>).</p>
+<p id="p-0097" num="0097">Referring to <figref idref="DRAWINGS">FIG. 10</figref>, instead of using a single vibrator with one of the two masses in variable angular position during motion, a vibrating assembly (<b>420</b>) can be adopted, comprising two vibrators (<b>20</b><i>a, </i><b>20</b><i>b</i>) of traditional type (i.e. with non-variable angular position of the masses during motion). In such a case, an adjustment and control system must be provided (<b>400</b>) to adjust and control the rotational speed of the vibrator shafts and the mutual displacement of the masses of the two vibrators, in such manner to vary the mutual displacement of the masses and maintain the same rotational speed of the shafts of the two vibrators.</p>
+<p id="p-0098" num="0098">In this way the assembly of the two traditional vibrators (<b>20</b><i>a, </i><b>20</b><i>b</i>), and the adjustment and control system (<b>400</b>), must be considered as a vibration system with variable angular position of the masses of the two vibrators (<b>20</b><i>a, </i><b>20</b><i>b</i>), with vibrators in motion.</p>
+<p id="p-0099" num="0099">In this case, each vibrator (<b>20</b><i>a, </i><b>20</b><i>b</i>) is actuated by a motor (Mta, MTb). The two motors (MTa, MTb) are analogous and provided with position sensor (encoder) (ENa, ENb) to detect the position of the masses. The encoder can be external or internal to the motor. Each motor is provided with power supply (ALa, ALb), generally in alternate current, managed by a control unit (UC) based on the data detected by the encoders (ENa, ENb). Therefore, the adjustment and control system (<b>400</b>) comprises encoders (ENa, ENb), power supplies (ALa, ALb) and control unit (UC).</p>
+<p id="p-0100" num="0100">Motor (MTa) is the primary or master motor and the other motor (MTb) is the secondary or slave motor. The coordination between master and slave is made by the control unit (UC) that can be a dedicated (embedded) controller and a PLC (programmable) controller. The motors (MTa, MTb) can be of different type with respect to the brushless motor (with embedded encoder) or of any other type of induction motor (asynchronous, step-to-step or permanent magnets).</p>
+<p id="p-0101" num="0101">The adjustment and control system (<b>400</b>) provide the rotation of the rotary shafts of the vibrators (<b>20</b><i>a, </i><b>20</b><i>b</i>) in the same direction to have omnidirectional vibration or in the opposite direction to have unidirectional vibration. In fact, according to the soil configuration, a unidirectional vibration of the share-moldboard assembly may give better results in terms of ploughing efficiency and energy saving. Moreover, the direction of the unidirectional vibration and the scalar value of the excitation force (related to the direction) can be adjusted according to the displacement imposed to the masses of the two vibrators.</p>
+<p id="p-0102" num="0102">Therefore, a two-step action can be made on the individual vibrator (<b>320</b>) that comprises at least two masses (m, m&#x2032;) with adjustable position during motion, or on the vibrator assembly (<b>420</b>) that comprises two vibrators (<b>20</b><i>a, </i><b>20</b><i>b</i>) provided with adjustment and control system (<b>400</b>):
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0103">1. action on the number of revolutions (n) (of the individual or double vibrator) that involves the variation of the excitation frequency (f) and consequently also of the excitation force (F);</li>
+        <li id="ul0004-0002" num="0104">2. action on the angular position between two masses of the individual or double vibrator, with consequent variation of the excitation force (F).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0103" num="0105">The first or the second action can be applied independently, or a double action can be made in cascade mode&#x2014;first and second action&#x2014;in order to have a summation effect, should the first action not be sufficient.</p>
+<p id="p-0104" num="0106">As shown in <figref idref="DRAWINGS">FIG. 11</figref>, the tractor of the invention comprises a controller (<b>500</b>) to provide automatic control of the vibrator assembly (<b>20</b>; <b>320</b>; <b>420</b>). <figref idref="DRAWINGS">FIG. 11</figref> shows the vibrator (<b>320</b>), it being understood that any type of vibrator can be used.</p>
+<p id="p-0105" num="0107">The controller (<b>500</b>) is an electronic device, for example of PID (Proportional-Integral-Derivative) type, provided with dedicated software, and in part parameterization, for the specific application. The control logics can be of Fuzzy Logic type, as an alternative to PID.</p>
+<p id="p-0106" num="0108">The purpose of the automatic control is to obtain the most effective vibration result (effect of the vibrating excitation) on the share-moldboard assembly of the plow, in order to obtain energy saving during ploughing, with minimum tractive force for the plow.</p>
+<p id="p-0107" num="0109">Therefore sensors must be provided, and signals must be sent to the input of the controller (<b>500</b>). Based on the input signals, the controller processes an output signal to be sent to the vibrator (<b>320</b>) in order to vary the number of revolutions (n) and/or the angle (&#x3b1;) between the masses (m, m&#x2032;) of the vibrator.</p>
+<p id="p-0108" num="0110">Referring to <figref idref="DRAWINGS">FIGS. 4 and 11</figref>, the tractor must comprise a force sensor (S<sub>s</sub>), such as a strain gauge, applied to the beam (<b>1</b>) of the plow to detect the average value &#x201c;&#x3c3;<sub>m</sub>&#x201d; of the ploughing force. As mentioned, the ploughing force depends on various ploughing parameters, including ground conditions and soil resistance.</p>
+<p id="p-0109" num="0111">The optimization of the results obtained by the control system is based on the ideal vibration value to obtain the minimum ploughing effort and consequently achieve the energy saving provided by the application of the vibrator (<b>320</b>) on the plow (<b>100</b>).</p>
+<p id="p-0110" num="0112">Therefore the controller (<b>500</b>) acquires the force values (&#x3c3;<sub>m</sub>), pursuing a minimum force (&#x3c3;<sub>min</sub>). The minimum force (&#x3c3;<sub>min</sub>) is pursued by acting on the vibrator assembly (either individual or double), that is to say on the number of revolutions (n) of the vibrator and/or the angle (&#x3b1;) between the masses of the vibrator.</p>
+<p id="p-0111" num="0113">Optionally, the plow comprises a power sensor (Sp), such as a wattmeter (in case of electrical vibrator) or another type of sensor (in case of hydraulic or pneumatic vibrator), connected to the vibrator (<b>320</b>) to detect the power absorption (Pa) of the vibrator (<b>320</b>). In such a case, the controller (<b>500</b>) also acquires the power absorption values (Pa), pursuing the maximum desired value (P/&#x3c3;)<sub>max </sub>of the ratio between the power absorbed by the vibrator and the force on the beam.</p>
+<p id="p-0112" num="0114">Optionally, the plow also comprises a vibration sensor (Sv), such as an accelerometer, applied to the share (<b>5</b>)&#x2014;moldboard (<b>7</b>) assembly to detect an average vibration value (a<sub>m</sub>). Advantageously, the vibration sensor (Sv) is disposed on the opposite side with respect to the working surface of the moldboard (<b>7</b>).</p>
+<p id="p-0113" num="0115">With the presence of the vibration sensor (Sv), in addition to the fundamental force sensor (Ss), the controller (<b>500</b>) compares the values detected by said sensors with the desired ratio (a/&#x3c3;)<sub>max </sub>between vibration and force, which can be set on the set point of the controller (<b>500</b>).</p>
+<p id="p-0114" num="0116">Numerous variations and modifications can be made to the embodiments of the invention, which are within the reach of an expert of the field, while still falling within the scope of the invention described in the enclosed claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A plow comprising:
+<claim-text>a share used to cut the soil,</claim-text>
+<claim-text>a moldboard connected to the share and used to turn over the clods of soil cut by the share,</claim-text>
+<claim-text>a beam connecting the share-moldboard assembly to a motor vehicle,</claim-text>
+<claim-text>a vibrator assembly connected to the moldboard to put the share-moldboard assembly into vibration,</claim-text>
+<claim-text>characterized in that it also comprises</claim-text>
+<claim-text>a force sensor connected to the beam to detect the ploughing force on the beam,</claim-text>
+<claim-text>a controller connected to the force sensor and vibrator assembly to control the vibration of the vibrator assembly according to the force value detected by said force sensor, said controller being set in such manner to acquire force values from the force sensor, pursuing a minimum force through the control of the vibrator assembly.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The plow of <claim-ref idref="CLM-00001">claim 1</claim-ref>, also comprising a power sensor connected to the vibrator assembly to detect the power absorption of the vibrator assembly, said controller being set in such manner to acquire the power absorption values from the power sensor, pursuing a maximum desired value of the ratio between vibrator power absorption and beam force through the control of the vibrator assembly.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The plow of <claim-ref idref="CLM-00001">claim 1</claim-ref>, also comprising a vibration sensor connected to the share-moldboard assembly to detect the vibration of the share-moldboard assembly, said controller being set in such manner to acquire the vibration absorption values from the vibration sensor, pursuing a maximum desired value of the vibration-force ratio through the control of the vibrator assembly.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The plow of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said vibrator assembly comprises at least one vibrator comprising a rotary shaft connected to at least two masses and said control of the vibrator assembly is carried out by varying the number of revolutions of the rotary shaft of the vibrator.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The plow of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said vibrator assembly comprises a vibrator comprising:
+<claim-text>a rotary shaft,</claim-text>
+<claim-text>a first mass joined to the rotary shaft,</claim-text>
+<claim-text>a second mass revolvingly mounted on the rotary shaft, wherein the straight lines passing by the centers of gravity of the two masses and the axis of the rotary shaft form and angle that identifies the angular position of the two masses,</claim-text>
+<claim-text>a variation device connected to said second mass to move said second mass with respect to the first mass in such manner to vary the angular position of the two masses and block said second mass in position in such manner to maintain the desired angular position;</claim-text>
+<claim-text>wherein said control of the vibrator assembly is obtained by varying the angular position of the two masses with the variation device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The plow of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein said variation device is a back drive or brushless motor.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The plow of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said vibrator assembly comprises a vibrator comprising at least two pairs of masses, wherein in each pair of masses a first mass is fixed to the rotary shaft and a second mass revolves with respect to the rotary shaft, said variation device being connected to said second mass.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The plow of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said vibrator assembly comprises:
+<claim-text>two vibrators, each of them having at least one mass connected to a rotary shaft,</claim-text>
+<claim-text>two motors driving into rotation respectively the rotary shafts of said vibrators,</claim-text>
+<claim-text>an adjustment and control system used to adjust and control the rotational speed of the shafts of the vibrators and the mutual displacement of the masses of the two vibrators, in such manner to vary the mutual displacement of the masses of the two vibrators and maintain the same rotational speed as the shafts of the two vibrators,</claim-text>
+<claim-text>wherein said control of the vibrator assembly is obtained by adjusting and controlling the rotational speed of the shafts of the vibrators and the mutual displacement of the masses of the two vibrators by means of said adjustment and control system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The plow of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said adjustment and control system comprises:
+<claim-text>two encoders connected to the two vibrators to detect the angular position of the masses of the two vibrators,</claim-text>
+<claim-text>two power supplies connected to the motors of the vibrators, and</claim-text>
+<claim-text>one control unit connected to said encoders and power supplies to control the rotational speed of the motors and the mutual displacement of the masses of the vibrators.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The plow of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said adjustment and control system allows for rotation of the rotary shafts of the vibrators in the same direction to obtain an omni-directional vibration or in the opposite direction to obtain a unidirectional vibration. </claim-text>
+</claim>
+</claims>
+</us-patent-application>
